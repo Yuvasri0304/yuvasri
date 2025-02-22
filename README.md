@@ -44,7 +44,7 @@ Make sure you have the following installed on your machine:
 
 **Cloning the Repository**
 ```
-git clone https://github.com/AkashJana18/portfolio.git
+git clone https://github.com/Yuvasri0304/yuvasri.git
 cd portfolio
 ```
 **Installation**
